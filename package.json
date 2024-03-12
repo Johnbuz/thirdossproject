@@ -1,0 +1,25 @@
+{
+  "name": "helping-tools",
+  "version": "1.0.0",
+  "description": "A collection of helping tools for development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Johnbuz/thirdossproject.git"
+  },
+  "keywords": [
+    "tools",
+    "development",
+    "development",
+    "npm"
+  ],
+  "author": "John Buz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Johnbuz/thirdossproject/issues"
+  },
+  "homepage": "https://github.com/Johnbuz/thirdossproject#readme"
+}
