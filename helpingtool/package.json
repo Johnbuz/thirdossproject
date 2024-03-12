@@ -1,7 +1,7 @@
 {
   "name": "helpingtool",
   "version": "0.1.0",
-  "private": true,
+  "private": "false",
   "description": "A collection of helping tools for development",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Johnbuz/thirdossproject.git"
+    "url": "https://github.com/Johnbuz/thirdossproject"
   },
   "keywords": [
     "tools",
