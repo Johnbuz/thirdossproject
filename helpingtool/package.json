@@ -1,6 +1,6 @@
 {
   "name": "helpingtool",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A collection of helping tools for development",
   "main": "index.js",
   "scripts": {
